@@ -1,0 +1,43 @@
+body{
+    background-color:mediumseagreen;
+}
+
+h1{
+    color:rgb(38, 0, 255);
+    background-color:azure;
+    font-family: 'Dancing Script', cursive;   
+}
+
+#Score_Update{
+    font-size:30px;
+    margin-left:-1600px;
+    color:azure;
+}
+
+#show_sketch{
+    float: right;
+}
+
+#Time_Update{
+    font-size:30px;
+    float:right;
+    margin-right:100px;
+    color:azure;
+}
+
+#Name_Update{
+    color:azure;
+}
+
+
+p{
+    padding-top:10px;
+    font-size:25px;
+    font-family: 'Kaushan Script', cursive;
+    margin-bottom:50px;
+}
+
+#btn_1{
+    font-family: 'Creepster', cursive;
+    color:black;
+}
